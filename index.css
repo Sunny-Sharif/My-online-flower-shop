@@ -295,12 +295,114 @@
     font-weight: 700;
 }
 
+
+/* subscribe section end */
+
+
+/* special section start */
+
+.speical {
+    color: rgb(0, 0, 0);
+    /* background-image: url("./image/footer-bg.png"), linear-gradient(rgba(0, 0, 0, 0.877), rgba(0, 0, 0, 0.781)); */
+    background-color: #e55473b9;
+}
+
+.spicial-containar {
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 50px;
+}
+
+.flower-style-titels {
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 130px;
+}
+
+.flower-style {
+    position: relative;
+    background-image: url("./image//Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 300px;
+}
+
+.flower-style-box-1 {
+    background-color: white;
+    position: absolute;
+    top: -55px;
+    left: -55px;
+}
+
+.flower-style-box-2 {
+    background-color: white;
+    position: absolute;
+    right: -50px;
+    top: -50px;
+}
+
+.flower-style-box-3 {
+    background-color: white;
+    position: absolute;
+    bottom: -50px;
+    left: -50px;
+}
+
+.flower-style-box-4 {
+    background-color: white;
+    position: absolute;
+    bottom: -50px;
+    right: -50px;
+}
+
+.sspeical-image-style {
+    width: 150px;
+    height: 150px;
+}
+
+.speical-text {
+    width: 450px;
+}
+
+.speical-titel {
+    color: black;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.speical-info {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.speical-button {
+    color: black;
+    border: 1px solid red;
+    background-color: white;
+}
+
+.hot-deal-titel-colors {
+    color: red;
+}
+
+
+/* special section end */
+
+
+/* footer section start */
+
 .footer-containar {
-    height: 400px;
+    height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.664);
 }
 
 .footer-box {
@@ -326,4 +428,4 @@
 }
 
 
-/* subscribe section end */
+/* footer section end*/
