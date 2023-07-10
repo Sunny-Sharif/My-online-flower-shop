@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* primary-button */
+
+.primary-button {
+    padding: 10px 30px;
+    color: #FFF;
+    background-color: #E55473;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+
+/* header section start */
+
+
+/* .banner {
+    background-color: #E554731A;
+} */
+
+.banner-containar {
+    background-color: #E554731A;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    align-items: center;
+}
+
+.banner-text {
+    width: 500px;
+}
+
+.banner-titel {
+    color: #272727;
+    font-family: Lato;
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.banner-info {
+    width: 450px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.banner-image-position {
+    width: 450px;
+    height: 500px;
+    margin-top: 50px;
+}
+
+
+/* banner section end */
+
+
+/* caption setion start */
+
+.caption-flower {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.caption-titel {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    padding-bottom: 10px;
+}
+
+.caption-details {
+    width: 500px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: auto;
+}
+
+
+/* caption section end */
