@@ -214,7 +214,7 @@
 .tnstagram-titel {
     color: #E55473;
     font-family: Lato;
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 800;
     margin-bottom: 10px;
 }
@@ -243,6 +243,8 @@
 .flower-box-image-position {
     width: 208px;
     height: 250px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.582);
+    border-radius: 5px;
 }
 
 
@@ -277,6 +279,7 @@
     font-size: 18px;
     font-weight: 400;
     margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .email {
@@ -336,6 +339,8 @@
     position: absolute;
     top: -55px;
     left: -55px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.568);
+    border-radius: 5px;
 }
 
 .flower-style-box-2 {
@@ -343,6 +348,8 @@
     position: absolute;
     right: -50px;
     top: -50px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.568);
+    border-radius: 5px;
 }
 
 .flower-style-box-3 {
@@ -350,6 +357,8 @@
     position: absolute;
     bottom: -50px;
     left: -50px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.568);
+    border-radius: 5px;
 }
 
 .flower-style-box-4 {
@@ -357,6 +366,8 @@
     position: absolute;
     bottom: -50px;
     right: -50px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.568);
+    border-radius: 5px;
 }
 
 .sspeical-image-style {
