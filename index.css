@@ -228,3 +228,21 @@
 
 
 /* instagram section end */
+
+
+/* flower box section start */
+
+.flower-box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 240px;
+}
+
+.flower-box-image-position {
+    width: 208px;
+    height: 250px;
+}
+
+
+/* flower box section end */
