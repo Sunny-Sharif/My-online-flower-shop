@@ -94,3 +94,31 @@
 
 
 /* caption section end */
+
+.flower-containar {
+    margin: 50px 240px;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    align-items: center;
+}
+
+.flower-card {
+    width: 464px;
+    height: 538px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    text-align: center;
+}
+
+.flower-card-image {
+    width: 220px;
+    height: 308px;
+    padding: 30px 30px 0px 30px;
+    background-color: #A7216226;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+
+
+/* flower card end */
