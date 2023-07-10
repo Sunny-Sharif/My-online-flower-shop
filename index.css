@@ -21,11 +21,6 @@
 
 /* header section start */
 
-
-/* .banner {
-    background-color: #E554731A;
-} */
-
 .banner-containar {
     background-color: #E554731A;
     display: flex;
@@ -156,3 +151,50 @@
 
 
 /* service section end */
+
+
+/* hot deal start */
+
+.hot-deal {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.05);
+    margin-top: 128px;
+}
+
+.hot-deal-text {
+    width: 530px;
+    text-align: center;
+}
+
+.hot-deal-titel {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.hot-deal-titel-color {
+    color: #E55473;
+}
+
+.hot-deal-info {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+.hot-deal-image {
+    width: 318px;
+    height: 420px;
+    padding: 100px 0;
+}
+
+
+/* hot deal end */
