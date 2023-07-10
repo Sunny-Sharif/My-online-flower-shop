@@ -105,7 +105,6 @@
 
 .flower-card {
     width: 464px;
-    height: 538px;
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
     text-align: center;
@@ -120,5 +119,40 @@
     border-top-right-radius: 50%;
 }
 
+.flower-card-image-2 {
+    background-color: #0597A026;
+}
+
+.flower-card-image-3 {
+    background-color: #477D1126;
+}
+
 
 /* flower card end */
+
+
+/* service section start */
+
+.service-containar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 240px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgba(39, 39, 39, 0.05);
+}
+
+.service-box {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.service-icon {
+    width: 88px;
+    height: 88px;
+    margin-bottom: 10px;
+}
+
+
+/* service section end */
