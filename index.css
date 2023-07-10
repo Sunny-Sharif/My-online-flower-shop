@@ -16,6 +16,7 @@
     border: 0;
     border-radius: 5px;
     margin-top: 15px;
+    cursor: pointer;
 }
 
 
@@ -91,7 +92,7 @@
 /* caption section end */
 
 .flower-containar {
-    margin: 50px 240px;
+    margin: 70px 240px;
     display: flex;
     justify-content: center;
     gap: 24px;
@@ -134,14 +135,14 @@
     justify-content: space-around;
     align-items: center;
     margin: 0px 240px;
-    padding: 20px;
+    padding: 10px 40px;
     border-radius: 5px;
     background-color: rgba(39, 39, 39, 0.05);
 }
 
 .service-box {
     text-align: center;
-    padding: 20px 0;
+    padding: 20px 30px;
 }
 
 .service-icon {
@@ -162,7 +163,7 @@
     gap: 100px;
     align-items: center;
     background-color: rgba(229, 84, 115, 0.05);
-    margin-top: 128px;
+    margin-top: 100px;
 }
 
 .hot-deal-text {
@@ -246,3 +247,83 @@
 
 
 /* flower box section end */
+
+
+/* subscribe section start  */
+
+.Subscribe-containar {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    align-items: center;
+    background-image: url("./image/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 50px 244px;
+}
+
+.Subscribe-box-titel {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.Subscribe-box-titel-mini {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.email {
+    width: 350px;
+    height: 40px;
+    border: 0;
+    border-radius: 5px;
+}
+
+.subscribe-button {
+    padding: 8px 10px;
+    margin-left: 10px;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.footer-containar {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.footer-box {
+    width: 400px;
+    text-align: center;
+    color: white;
+}
+
+.footer-titel {
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.footer-info {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 32px;
+}
+
+
+/* subscribe section end */
